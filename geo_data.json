@@ -1,0 +1,243 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    82.7948, 
+                    21.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2488 #OneNationOneLaw\n\u2489 #INDvBAN\n\u248a #RamleelaPolitics\n\u248b Happy Birthday Farhan\n\u248c #Chennai28II\n\n2016/10/12 02:03 IST https://t.co/LZ0lSnKin9", 
+                "created_at": "Tue Oct 11 20:36:31 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    82.7948, 
+                    21.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2488 #OneNationOneLaw\n\u2489 #INDvBAN\n\u248a #RamleelaPolitics\n\u248b Happy Birthday Farhan\n\u248c #Chennai28II\n\n2016/10/12 02:23 IST https://t.co/LZ0lSnKin9", 
+                "created_at": "Tue Oct 11 20:56:33 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.8826, 
+                    19.0728
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#onenationonelaw is now trending in #Mumbai https://t.co/YIfJHx502A", 
+                "created_at": "Tue Oct 11 21:02:36 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    82.7948, 
+                    21.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2488 #OneNationOneLaw\n\u2489 #INDvBAN\n\u248a #RamleelaPolitics\n\u248b Happy Birthday Farhan\n\u248c #Chennai28II\n\n2016/10/12 02:43 IST https://t.co/LZ0lSnKin9", 
+                "created_at": "Tue Oct 11 21:16:31 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    82.7948, 
+                    21.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2488 #OneNationOneLaw\n\u2489 #RamleelaPolitics\n\u248a Happy Birthday Farhan\n\u248b #Kabul\n\u248c #GERNIR\n\n2016/10/12 03:03 IST #trndnl https://t.co/LZ0lSnKin9", 
+                "created_at": "Tue Oct 11 21:36:31 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    82.7948, 
+                    21.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2488 #OneNationOneLaw\n\u2489 #RamleelaPolitics\n\u248a Happy Birthday Farhan\n\u248b #Kabul\n\u248c #GERNIR\n\n2016/10/12 03:23 IST #trndnl https://t.co/LZ0lSnKin9", 
+                "created_at": "Tue Oct 11 21:56:32 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    82.7948, 
+                    21.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2488 #OneNationOneLaw\n\u2489 #RamleelaPolitics\n\u248a Happy Birthday Farhan\n\u248b #Kabul\n\u248c #GERNIR\n\n2016/10/12 03:38 IST #trndnl https://t.co/LZ0lSnKin9", 
+                "created_at": "Tue Oct 11 22:16:32 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    82.7948, 
+                    21.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2488 #OneNationOneLaw\n\u2489 #RamleelaPolitics\n\u248a Happy Birthday Farhan\n\u248b #NationalComingOutDay\n\u248c #GERNIR\n\n2016/10/12 03:58 IST", 
+                "created_at": "Tue Oct 11 22:36:31 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    82.7948, 
+                    21.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2488 #OneNationOneLaw\n\u2489 #RamleelaPolitics\n\u248a Happy Birthday Farhan\n\u248b #NationalComingOutDay\n\u248c #GERNIR\n\n2016/10/12 04:18 IST", 
+                "created_at": "Tue Oct 11 22:56:32 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    82.7948, 
+                    21.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2488 #OneNationOneLaw\n\u2489 #RamleelaPolitics\n\u248a #NationalComingOutDay\n\u248b Kabul\n\u248c #SABKeRaavanKaAnth\n\n2016/10/12 04:38 IST https://t.co/LZ0lSnKin9", 
+                "created_at": "Tue Oct 11 23:16:29 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    82.7948, 
+                    21.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2488 #OneNationOneLaw\n\u2489 #RamleelaPolitics\n\u248a Kabul\n\u248b #NationalComingOutDay\n\u248c #SABKeRaavanKaAnth\n\n2016/10/12 05:03 IST https://t.co/LZ0lSnKin9", 
+                "created_at": "Tue Oct 11 23:36:29 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    82.7948, 
+                    21.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2488 #OneNationOneLaw\n\u2489 #RamleelaPolitics\n\u248a Kabul\n\u248b #NationalComingOutDay\n\u248c #SABKeRaavanKaAnth\n\n2016/10/12 05:23 IST https://t.co/LZ0lSnKin9", 
+                "created_at": "Tue Oct 11 23:56:29 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    82.7948, 
+                    21.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2488 #OneNationOneLaw\n\u2489 #RamleelaPolitics\n\u248a Kabul\n\u248b #NationalComingOutDay\n\u248c #SABKeRaavanKaAnth\n\n2016/10/12 05:38 IST https://t.co/LZ0lSnKin9", 
+                "created_at": "Wed Oct 12 00:16:29 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    82.7948, 
+                    21.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2488 #OneNationOneLaw\n\u2489 #RamleelaPolitics\n\u248a Kabul\n\u248b #NationalComingOutDay\n\u248c #SABKeRaavanKaAnth\n\n2016/10/12 06:03 IST https://t.co/LZ0lSnKin9", 
+                "created_at": "Wed Oct 12 00:36:29 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    82.7948, 
+                    21.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u2488 #OneNationOneLaw\n\u2489 #RamleelaPolitics\n\u248a Kabul\n\u248b #NationalComingOutDay\n\u248c #SABKeRaavanKaAnth\n\n2016/10/12 06:23 IST https://t.co/LZ0lSnKin9", 
+                "created_at": "Wed Oct 12 00:56:29 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.84685, 
+                    19.120155
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "It will take guts 4 any govt 2 implement #OneNationOneLaw; it's gambling wit d vote banks.\rBut current govt has least risk. #fingerscrossed", 
+                "created_at": "Wed Oct 12 02:31:01 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    72.8763926, 
+                    19.109171
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#OneNationOneLaw is d fundamental of an equal society. If India succeeds in implementing this, we wud be a developed nation in our own eyes!", 
+                "created_at": "Wed Oct 12 02:34:01 +0000 2016"
+            }
+        }
+    ]
+}

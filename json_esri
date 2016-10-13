@@ -1,0 +1,39 @@
+# Tweets are stored in "fname"
+
+import os
+import sys
+import json
+with open('MakeMeSmileIn3Words.json', 'r') as f:
+    geo_data = {
+    "geometryType" : "esriGeometryPoint",
+    "spatialReference" : {
+    "wkid" : 4326
+        },
+    "features" : []
+    }
+        
+        
+    
+    for line in f:
+        tweet = json.loads(line)
+        if tweet['coordinates']:
+            x=tweet['coordinates']
+            y=x["coordinates"]
+            
+            geo_json_feature = {
+                
+             "geometry" : {
+       
+      
+            
+            "x":y[0],
+            "y":y[1]
+                
+            }
+                
+            }
+            geo_data['features'].append(geo_json_feature)
+ 
+# Save geo data
+with open('geo_data.json', 'w') as fout:
+    fout.write(json.dumps(geo_data, indent=4))
